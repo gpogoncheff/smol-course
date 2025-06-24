@@ -166,3 +166,4 @@ sft_output/
 1_instruction_tuning/notebooks/SmolLM2-FT-MyDataset/
 2_preference_alignment/notebooks/smol_dpo_output/
 2_preference_alignment/notebooks/SmolLM2-FT-DPO/
+2_preference_alignment/notebooks/results/
