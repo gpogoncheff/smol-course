@@ -164,3 +164,5 @@ sft_output/
 #.idea/
 .DS_Store
 1_instruction_tuning/notebooks/SmolLM2-FT-MyDataset/
+2_preference_alignment/notebooks/smol_dpo_output/
+2_preference_alignment/notebooks/SmolLM2-FT-DPO/
